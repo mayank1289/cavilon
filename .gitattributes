@@ -1,0 +1,7 @@
+# Set the default behavior to automatically handle line endings
+* text=auto
+
+# Explicitly set line endings for specific file types
+*.ts text eol=lf
+*.tsx text eol=lf
+*.json text eol=lf
